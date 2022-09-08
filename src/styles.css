@@ -1,1 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+:root {
+  scroll-behavior: smooth;
+}
+
+* {
+  font-family: "Marvel", sans-serif;
+  font-size: 25px;
+}
+
+.subtitulo {
+  background-color: lightgrey;
+  text-align: center;
+  font-weight: 400;
+  color: white;
+  text-shadow: 2px 2px 3px black;
+  margin-bottom: 40px;
+  margin-top: 80px;
+  font-size: 60px;
+  box-shadow: 5px 5px 15px black;
+}
+
+.row {
+  padding: 2em;
+}
+
+.btn{
+  box-shadow: 1px 1px 3px black;
+}
+
+.container{
+  padding-top: 5%;
+}

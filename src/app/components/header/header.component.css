@@ -1,0 +1,24 @@
+#logoAP {
+    width: 150px;
+    padding: 10px;
+  }
+  
+  .elementos img {
+    width: 40px;
+    margin: 10px;
+  }
+  
+  .elementos{
+    padding: 10px;
+  }
+  
+  #barra {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+  }
+  
+  #botonLogin {
+      margin: 20px;
+  }
